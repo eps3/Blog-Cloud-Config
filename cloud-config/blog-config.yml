@@ -29,7 +29,7 @@ server:
 
 ---
 spring:
-  profiles: devel, default
+  profiles: devel
   #SQL_CONN_SETTING
   datasource:
     url: jdbc:mysql://localhost:3306/blog
